@@ -42,7 +42,7 @@ This project showcases the application of Q-Learning, a popular reinforcement le
 
 ## Customization
 
-- Modify the maze_data variable in maze_qlearning.py to define your custom maze layout.
+- Modify the maze_data variable in maze_qlearning.ipynb to define your custom maze layout.
 - Adjust reward values and other parameters in the Maze and QLearningAgent classes to fine-tune the agent's behavior.
 
 ## Additional Information
