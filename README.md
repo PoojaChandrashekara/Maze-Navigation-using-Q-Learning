@@ -14,12 +14,12 @@ This project showcases the application of Q-Learning, a popular reinforcement le
 2. Defined start and goal states.
  Rewards associated with different cell types (goal, obstacles, bonuses, penalties).
 3. Q-Learning Agent:
-- Learns a Q-value table to estimate the expected future reward for taking an action in a given state.
-- Employs an epsilon-greedy strategy to balance exploration and exploitation during learning.
-- Trains over multiple episodes to refine its policy.
+ - Learns a Q-value table to estimate the expected future reward for taking an action in a given state.
+ - Employs an epsilon-greedy strategy to balance exploration and exploitation during learning.
+ - Trains over multiple episodes to refine its policy.
 4. Visualization:
-- Plots the accumulated rewards over training episodes to illustrate learning progress.
-- Visually depicts the optimal path discovered by the agent within the maze.
+ - Plots the accumulated rewards over training episodes to illustrate learning progress.
+ - Visually depicts the optimal path discovered by the agent within the maze.
 
 ## Installation
 
